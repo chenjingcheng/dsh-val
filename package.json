@@ -1,0 +1,17 @@
+{
+  "name": "dsh-val",
+  "version": "0.0.1",
+  "description": "AI engineering and validation environment for DSH plugins",
+  "type": "module",
+  "bin": {
+    "dsh-val": "./bin/dsh-val.js"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
